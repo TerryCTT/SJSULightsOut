@@ -2,7 +2,6 @@
 Lights Out game recreation for San Jose State University Math 167PS Project
 
 Team members:
-Terry Tzeng
-Lauren Fluty
-Miriam Yee
-Erik Rackley
+
+Terry Tzeng, Lauren Fluty, Miriam Yee, Erik Rackley
+
