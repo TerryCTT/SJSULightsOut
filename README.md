@@ -5,3 +5,4 @@ Team members:
 Terry Tzeng
 Lauren Fluty
 Miriam Yee
+Erik Rackley
