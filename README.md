@@ -27,5 +27,4 @@ open LightsOut.ipynb and run
 
 The game consists of a 5x5 board which has a random number of squares lit up. 
 The objective is to turn off all the lights on the game board with as few clicks as possible. 
-When a user clicks a square, that square and the neighboring squares sharing an edge are switched from its current setting (on [WHITE] or off [PURPLE]) to its opposite setting. 
-Diagonal squares do not change. You win once all squares have been set to purple.
+When a user clicks a square, that square and the neighboring squares sharing an edge are switched from its current setting (on [WHITE] or off [PURPLE]) to its opposite setting. Diagonal squares do not change. You win once all squares have been set to purple.
